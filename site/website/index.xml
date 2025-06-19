@@ -13,7 +13,9 @@
   ~
   ~ You should have received a copy of the GNU General Public License
   ~ along with this program.  If not, see <http://www.gnu.org/licenses/>.
-  --><page>
+  -->
+
+<page>
   <content-type>/page/home</content-type>
   <display-template>/templates/web/pages/home.ftl</display-template>
   <no-template-required/>
@@ -27,10 +29,10 @@
   <folder-name/>
   <createdDate>2017-01-31T16:18:14.000Z</createdDate>
   <createdDate_dt>2017-01-31T16:18:14.000Z</createdDate_dt>
-  <lastModifiedDate>2025-06-19T15:41:57.310Z</lastModifiedDate>
-  <lastModifiedDate_dt>2025-06-19T15:41:57.310Z</lastModifiedDate_dt>
+  <lastModifiedDate>2021-03-31T18:08:03.196Z</lastModifiedDate>
+  <lastModifiedDate_dt>2021-03-31T18:20:09.599Z</lastModifiedDate_dt>
   <title_t>Editorial</title_t>
-  <hero_text_html><![CDATA[<p>Aenean oAAAArnare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. Pellentesque sapien ac quam. Lorem ipsum dolor sit nullam.BB</p>]]></hero_text_html>
+  <hero_text_html>&lt;p&gt;Aenean AAAAAAoAAAArnare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. Pellentesque sapien ac quam. Lorem ipsum dolor sit nullam.&lt;/p&gt;</hero_text_html>
   <hero_title_html>&lt;h1&gt;Hi, I&amp;rsquo;m Editorial&lt;/h1&gt;
     &lt;h3&gt;&lt;span style="font-size: 1.5em;"&gt;by HTML5 UP&lt;/span&gt;&lt;/h3&gt;</hero_title_html>
   <features_o item-list="true">
